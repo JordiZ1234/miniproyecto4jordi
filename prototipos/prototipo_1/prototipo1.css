@@ -43,41 +43,11 @@
     text-align: center;
 }
 
-button{
-  background-color: #252525;
-  color: white;
-  border-radius: 16px;
-  padding: 10px;
-  width: 100px;
-}
-
 .texto_tipo {
   font-weight: 400px;
   font-size: 26px;
 }
 
-.lista {
-  width: 1312px;
-  height: 592px;
-  gap: 16px;
-}
-
-.frame1 {
-  width: 1,312px;
-  height: 288px;
-  gap: 16;
-}
-
-.frame2 {
-  width: 1,312px;
-  height: 288px;
-  gap: 16;
-}
-
-.imagen img{
-  width: 316px;
-  height: 288px;
-}
 
 .button{
   width: 158px;
@@ -85,4 +55,20 @@ button{
   background-color: #252525;
   border-radius: 16px;
   color: white;
+}
+
+.seccion {
+  gap: 16px;
+}
+
+.margin {
+  margin-top: 16px;
+}
+
+.margin2 {
+  margin-top: 75px;
+}
+
+.margin3{
+  margin-bottom: 50px;
 }
