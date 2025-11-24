@@ -1,0 +1,13 @@
+body{
+    background-image: url(imagenesprototipo1/fondo1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 15px;
+}
+
+body, html {
+  margin: 0;          /* Quita los márgenes predeterminados */
+  padding: 0;         /* Quita el padding */
+  height: 100%;       /* Hace que el body y html ocupen toda la altura */
+}
+
