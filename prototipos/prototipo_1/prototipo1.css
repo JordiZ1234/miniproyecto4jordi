@@ -1,13 +1,88 @@
-body{
-    background-image: url(imagenesprototipo1/fondo1.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 15px;
+.flex{
+  display: flex;
 }
 
-body, html {
-  margin: 0;          /* Quita los márgenes predeterminados */
-  padding: 0;         /* Quita el padding */
-  height: 100%;       /* Hace que el body y html ocupen toda la altura */
+.column {
+  flex-direction: column;
 }
 
+.justifycenter{
+  justify-content: center;
+}
+
+.ancho{
+  width: 600px;
+}
+
+.titulo {
+  width: 350px;
+  display: flex;
+  color: #252525;
+  font-weight: 800;
+  size: 64px;
+
+}
+
+.color {
+  color: #252525;
+}
+
+.tipografia{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.aligncenter{
+  align-items: center;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button{
+  background-color: #252525;
+  color: white;
+  border-radius: 16px;
+  padding: 10px;
+  width: 100px;
+}
+
+.texto_tipo {
+  font-weight: 400px;
+  font-size: 26px;
+}
+
+.lista {
+  width: 1312px;
+  height: 592px;
+  gap: 16px;
+}
+
+.frame1 {
+  width: 1,312px;
+  height: 288px;
+  gap: 16;
+}
+
+.frame2 {
+  width: 1,312px;
+  height: 288px;
+  gap: 16;
+}
+
+.imagen img{
+  width: 316px;
+  height: 288px;
+}
+
+.button{
+  width: 158px;
+  height: 54px;
+  background-color: #252525;
+  border-radius: 16px;
+  color: white;
+}
