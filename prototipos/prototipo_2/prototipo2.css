@@ -1,0 +1,67 @@
+.imagen_derecha{
+    width: 408px;
+    height: 480px;
+    border-radius: 16px;
+    margin-top: 217px;
+    margin-left: 968px;
+}
+
+.imagen_izquierda {
+    width: 408px;
+    height: 480px;
+    margin-top: 65px;
+    margin-left: 525px;
+    border-radius: 16px;
+}
+
+.image_card {
+    width: 1,316px;
+    height: 440px;
+    margin-top: 769px;
+    margin-left: 64px;
+    gap: 40px;
+}
+
+.primera_imagen{
+    width: 412px;
+    height: 438.16px;
+    gap: 4px;
+}
+
+.segunda_imagen{
+    width: 412px;
+    height: 440px;
+    gap: 4px;
+}
+
+.tercera_imagen{
+    width: 412px;
+    height: 440px;
+    gap: 4px;
+}
+
+.imagen1{
+    width: 412px;
+    height: 379.16px;
+    border-radius: 16px;
+}
+
+.imagen2{
+    width: 412px;
+    height: 381px;
+    border-radius: 16px;
+}
+
+.imagen3{
+    width: 412px;
+    height: 381px;
+    border-radius: 16px;
+}
+
+.flex {
+    display: flex;
+}
+
+.T1{
+    
+}
