@@ -39,6 +39,7 @@ body{
 
 .tipografia {
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 64px;
 }
 
 .contenido {
@@ -48,7 +49,25 @@ body{
     margin-left: 64px;
 }
 
-.titulo{
+.titulo h1{
     font-weight: 800px;
-    
+    font-size: 56px;
 }
+
+.texto p{
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.boton {
+    width: 157px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #252525;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
