@@ -1,28 +1,28 @@
 body{
-  display: flex;
-  justify-content: center;
-  background-color: #252525;
+    display: flex;
+    background-color: #252525;
+    justify-content: center;
 }
 
 .contenedor{
   width: 1440px;
-  height: 1272px;
   background-color: #FFFFFF;
 }
 
 .image_card{
     width: 1316px;
     height: 440px;
-    margin-left: 64px;
     gap: 40px;
+    margin-top: 72px;
+    justify-content: center;
 }
 
 .derecha {
     width: 408px;
     height: 480px;
     margin-top: 217px;
-    margin-left: 64px;
     border-radius: 16px;
+    margin-right: 60px;
 }
 
 .izquierda {
@@ -47,6 +47,7 @@ body{
     height: 437px;
     gap: 24px;
     margin-left: 64px;
+    margin-top: 137px;
 }
 
 .titulo h1{
@@ -55,8 +56,12 @@ body{
 }
 
 .texto p{
-    font-weight: 400;
+    font-weight: 400px;
     font-size: 26px;
+}
+
+.imagen{
+    margin-top: 65px;
 }
 
 .boton {
@@ -71,3 +76,29 @@ body{
     font-size: 18px;
 }
 
+
+
+.justify {
+    justify-content: center;
+}
+
+.gap {
+    gap: 40px;
+}
+
+.margenabajo{
+    margin-bottom: 63px;
+    margin-left: 64px;
+    margin-right: 60px;
+}
+
+.numero{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 800px;
+    font-size: 40px;
+    color: #2525253d ;
+}
+
+.gap2{
+    gap: 17px;
+}

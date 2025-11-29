@@ -5,10 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prototipo2</title>
     <link rel="stylesheet" href="prototipo2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="contenedor">
-        <div class="flex">
+        <div class="flex gap">
             <div class="tipografia contenido">
                 <div class="titulo">
                     <h1>Discover the beauty around the world</h1>
@@ -18,7 +21,7 @@
                 </div>
                 <button class="boton"><p class="boton1">Get started</p></button>
             </div>
-            <div class="flex">
+            <div class="flex imagen gap">
                 <div>
                     <img src="imagenesprototipo2/2_5.svg" alt="">
                 </div>
@@ -27,11 +30,23 @@
                 </div>
             </div>
         </div>
-        <div class="image_card">
-            <img src="imagenesprototipo2/2_1.svg" alt="">
-            <img src="imagenesprototipo2/2_2.svg" alt="">
-            <img src="imagenesprototipo2/2_3.svg" alt="">
-        </div>
+
+            <div class="flex justify">
+                <div class="flex image_card margenabajo gap justify">
+                    <div>
+                        <span class="numero">01</span>
+                       <img src="imagenesprototipo2/2_1.svg" alt="">
+                    </div>
+                     <div>
+                        <span class="numero">02</span>
+                        <img src="imagenesprototipo2/2_2.svg" alt="">
+                     </div>
+                     <div>
+                        <span class="numero">03</span>
+                        <img src="imagenesprototipo2/2_3.svg" alt="">
+                    </div>
+                </div>
+            </div>
     </div>
 </body>
 </html>
