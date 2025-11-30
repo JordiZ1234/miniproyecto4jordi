@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:#252525 ;
+}
+
+.contenedor{
+    width: 1440px;
+    height: 954px;
+    background-color: white;
+}
+
+.titulo{
+    width: 531px;
+    height: 208px;
+    margin-top: 64px;
+    margin-left: 64px;
+}
+
+.titulo h1{
+    font-weight: 800px;
+    font-size: 88px;
+}
+
+.flex{
+    display: flex;
+}
+
+.cartas{
+    width: 1312px;
+    height: 549px;
+    gap: 56px;
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+    margin-top: 69px;
+}
+
+span{
+    font-weight: 800px;
+    font-size: 32px;
+    color: #2525258C;
+}
+
+p{
+    font-weight: 400px;
+    font-size: 24px;
+    color: #252525CC;
+
+}
