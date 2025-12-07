@@ -2,6 +2,7 @@ body{
     display: flex;
     justify-content: center;
     background-color:#252525 ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .contenedor{
@@ -15,6 +16,7 @@ body{
     display: flex;
     width: 635px;
     height: 778px;
+    margin-top: 62px;
 }
 
 .absoluto{
@@ -29,6 +31,131 @@ body{
 .principal{
     width: 480px;
     height: 628px;
-    top: 50px;   /* ajusta según necesites */
-    left: 50px;  /* ajusta según necesites */
+    top: 50px;   
+    left: 70px;  
+}
+
+.estrella_izquierda{
+    left: 92px;
+    bottom: 570px;
+}
+
+.estrella_derecha{
+    left: 420px;
+    top: 530px;
+}
+
+.esquina{
+    right: 565px;
+    bottom: 675px;
+}
+
+.tag{
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    border-radius: 16px;
+    background-color: #685FD4;
+    color: white;
+    top: 576px;
+    left: 5px;
+
+}
+
+.tag2{
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    border-radius: 16px;
+    background-color: #685FD4;
+    color: white;
+    left: 375px;
+    top: 85px;
+}
+
+.flex{
+    display: flex;
+}
+
+.texto{
+    width: 653px;
+    height: 460px;
+    margin-left: 64px;
+}
+
+.texto h1{
+    font-weight: 700px;
+    font-size: 64px;
+}
+
+.texto p{
+    font-weight: 400px;
+    font-size: 24px;
+    width: 629px;
+    height: 90px;
+}
+
+.boton1{
+    width: 219px;
+    height: 66px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 18px;
+
+}
+
+.boton2{
+    width: 254px;
+    height: 66px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    border-radius: 16px;
+    border-width: 1px;
+    background-color: white;
+    color: black;
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 18px;
+}
+.gap{
+    gap: 32px;
+    display: flex;
+}
+
+.frame{
+    width: 91px;
+    height: 70px;
+}
+
+.gap2{
+    gap: 80px;
+    margin-left: 64px;
+    margin-top: 70px;
+    width: 652px;
+    border: 1px black solid;
+    height: 118px;
+    gap: 80px;
+    border-radius: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen{
+    margin-left: 64px;
+    margin-top: 64px;
+}
+
+.gap3{
+    gap: 55px;
 }
