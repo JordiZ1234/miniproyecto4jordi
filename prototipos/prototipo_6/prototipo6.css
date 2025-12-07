@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:#252525 ;
+}
+
+.contenedor{
+    width: 1440px;
+    height: 933px;
+    background-color: white;
+}
+
+.relativo{
+    position: relative;
+    display: flex;
+    width: 635px;
+    height: 778px;
+}
+
+.absoluto{
+    position: absolute;
+}
+
+.decoracion2 {
+    bottom: 30px;
+    right: 40px;
+}
+
+.principal{
+    width: 480px;
+    height: 628px;
+    top: 50px;   /* ajusta según necesites */
+    left: 50px;  /* ajusta según necesites */
+}
