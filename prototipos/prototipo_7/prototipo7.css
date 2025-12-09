@@ -29,12 +29,31 @@ body{
 .cartas{
     width: 1312px;
     height: 559px;
+    gap: 16px;
+    margin-left: 64px;
+    margin-top: 64px;
 }
 
 .span{
+    color: #25252559;
+    font-weight: 800px;
+    font-size: 40px;
 
 }
 
 .flex{
     display: flex;
+}
+
+.parrafo{
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #252525CC;
+}
+
+.frame{
+    width: 316px;
+    height: 559px;
 }
