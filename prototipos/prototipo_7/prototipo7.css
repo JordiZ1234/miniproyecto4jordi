@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:#252525 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+    width: 1440px;
+    height: 926px;
+    background-color: white;
+}
+
+.titulo{
+    width: 833px;
+    height: 176px;
+    margin-top: 64px;
+    margin-left: 64px;
+
+}
+
+.titulo h1{
+    font-weight: 800px;
+    font-size: 70px;
+    line-height: 88px;
+    letter-spacing: 0%;
+}
+
+.cartas{
+    width: 1312px;
+    height: 559px;
+}
+
+.span{
+
+}
+
+.flex{
+    display: flex;
+}
