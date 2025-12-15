@@ -1,0 +1,39 @@
+.contenedor{
+    width: 1440px;
+    height: 926px;
+    background-color: #9C2004;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #252525;
+}
+
+.imagenes{
+    position: relative;
+    width: 656px;
+    height: 861px;
+}
+
+.img4{
+    position: absolute;
+    top: 88px;
+}
+
+.img3{
+    position: absolute;
+}
+
+.img2{
+    position: absolute;
+}
+
+.img1{
+    position: absolute;
+    width: 618px;
+    height: 795px;
+    top: 130px;
+    left: 64px;
+
+}
