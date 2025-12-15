@@ -8,6 +8,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: #252525;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 .imagenes{
@@ -26,18 +27,103 @@ body{
 
 .img3{
     position: absolute;
+    top: 5px;
 }
 
 .img2{
     position: absolute;
     left: 460px;
-    top: 564px;
+    top: 570px;
 }
 
 .img1{
     position: absolute;
     width: 618px;
     height: 795px;
-    top: 60px;
+    top: 69px;
     left: 5px;
+}
+
+.div4{
+    position: absolute;
+    width: 656px;
+    height: 656px;
+}
+
+.div43{
+    position: absolute;
+    width: 224px;
+    height: 224px;
+}
+.div2{
+    position: absolute;
+    width: 224px;
+    height: 224px;
+}
+.div1{
+    position: absolute;
+    width: 616px;
+    height: 795px;
+}
+
+.texto{
+    width: 487px;
+    height: 675px;
+    margin-top: 67px;
+}
+
+.h1 h1{
+    font-weight: 700px;
+    font-size: 88px;
+    line-height: 104px;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.h1{
+    width: 487px;
+    height: 416px;
+}
+
+.p{
+    width: 487px;
+    height: 96px;
+    margin-top: 40px;
+}
+
+.p p{
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.boton{
+    width: 231px;
+    height: 82px;
+    margin-top: 40px;
+}
+
+.boton button{
+    border-radius: 36px;
+    padding-top: 32px;
+    padding-right: 56px;
+    padding-bottom: 32px;
+    padding-left: 56px;
+    background-color: #E5B94B;
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #080808;
+
+}
+
+.flex{
+    display: flex;
+}
+
+.gap{
+    gap: 169px;
 }
