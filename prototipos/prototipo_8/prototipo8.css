@@ -14,11 +14,14 @@ body{
     position: relative;
     width: 656px;
     height: 861px;
+    margin-top: 64px;
+    margin-left: 64px;
+
 }
 
 .img4{
     position: absolute;
-    top: 88px;
+    top: 24px;
 }
 
 .img3{
@@ -27,13 +30,14 @@ body{
 
 .img2{
     position: absolute;
+    left: 460px;
+    top: 564px;
 }
 
 .img1{
     position: absolute;
     width: 618px;
     height: 795px;
-    top: 130px;
-    left: 64px;
-
+    top: 60px;
+    left: 5px;
 }
