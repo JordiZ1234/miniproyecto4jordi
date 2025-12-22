@@ -1,0 +1,130 @@
+body{
+    justify-content: center;
+    display: flex;
+    background-color: #252525;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contenedor{
+    width: 1440px;
+    height: 1024px;
+    background-color: white;
+}
+
+.texto{
+    width: 637px;
+    height: 414px;
+    margin-top: 144px;
+    margin-left: 65px;
+}
+
+.texto h1{
+    width: 637px;
+    height: 176px;
+    font-weight: 800px;
+    font-size: 72px;
+    line-height: 88px;
+    letter-spacing: 0%;
+    margin: 0;
+}
+
+.texto p{
+    width: 586px;
+    height: 108px;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    line-height: 35px;
+}
+
+.texto button{
+    width: 182px;
+    height: 66px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    background-color: #252525;
+    color: white;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0%;
+}
+
+.flex{
+    display: flex;
+}
+
+.relativo{
+    position: relative;
+    width: 547px;
+    height: 518px;
+    margin-top: 92px;
+}
+
+.left{
+    position: absolute;
+    left: 225px;
+    top: 134px;
+}
+
+.right{
+    position: absolute;
+}
+
+.gap{
+    gap: 126px;
+}
+
+.lista{
+    width: 1312px;
+    height: 298px;
+    background-color: #252525;
+    margin-left: 64px;
+    border-radius: 40px;
+    margin-top: 56px;
+}
+
+.centrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cajas{
+    width: 316px;
+    height: 170px;
+}
+
+.cajas h2{
+    width: 316px;
+    height: 44px;
+    font-weight: 800px;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+    margin: 0;
+    margin-top: 16px;
+}
+
+.cajas p{
+    width: 316px;
+    height: 66px;
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+    margin: 0;
+    margin-top: 24px;
+    line-height: 33px;
+}
+
+.gap2{
+    gap: 118px;
+}
