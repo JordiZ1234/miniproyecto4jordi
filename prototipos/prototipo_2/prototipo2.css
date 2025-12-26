@@ -51,17 +51,21 @@ body{
 }
 
 .titulo h1{
-    font-weight: 800;
+    font-weight: 550;
     font-size: 56px;
-
+    line-height: 80px;
+    margin-bottom: 0;
 }
 
 .texto p{
     width: 386px;
     height: 144px;
-    font-weight: 400;
+    font-weight: 100;
+    opacity: 1;
     font-size: 26px;
     margin: 0;
+    line-height: 35px;
+    margin-top: 12px;
 }
 
 .imagen{
@@ -100,7 +104,7 @@ body{
 
 .numero{
     font-family: "Noto Sans", sans-serif;
-    font-weight: 800;
+    font-weight: 550;
     font-size: 40px;
     color: #2525253d ;
 }
