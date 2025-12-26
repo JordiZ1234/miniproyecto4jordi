@@ -21,13 +21,17 @@ body{
 }
 
 .titulo {
-  width: 610px;
+  width: 700px;
   height: 145px;
   display: flex;
   color: #252525;
-  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+.titulo h1{
+  font-weight: 600;
   font-size: 64px;
-  line-height: 100px;
+  line-height: 80px;
 }
 
 
@@ -52,7 +56,7 @@ body{
 }
 
 .texto_tipo {
-  font-weight: 400;
+  font-weight: 100;
   font-size: 26px;
 }
 
