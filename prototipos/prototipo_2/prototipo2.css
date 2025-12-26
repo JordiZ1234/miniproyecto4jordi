@@ -53,11 +53,15 @@ body{
 .titulo h1{
     font-weight: 800px;
     font-size: 56px;
+
 }
 
 .texto p{
+    width: 386px;
+    height: 144px;
     font-weight: 400px;
     font-size: 26px;
+    margin: 0;
 }
 
 .imagen{
@@ -74,6 +78,8 @@ body{
     justify-content: center;
     color: #FFFFFF;
     font-size: 18px;
+    margin: 0;
+    margin-top: 24px;
 }
 
 

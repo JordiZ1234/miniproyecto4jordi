@@ -21,13 +21,16 @@ body{
 }
 
 .titulo {
-  width: 350px;
+  width: 610px;
+  height: 145px;
   display: flex;
   color: #252525;
-  font-weight: 800;
-  size: 64px;
-
+  font-weight: 800px;
+  font-size: 64px;
+  line-height: 100px;
+  letter-spacing: 0%;
 }
+
 
 .color {
   color: #252525;
