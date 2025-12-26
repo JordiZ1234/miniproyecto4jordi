@@ -21,20 +21,18 @@ body{
 .texto h1{
     width: 637px;
     height: 176px;
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 72px;
     line-height: 88px;
-    letter-spacing: 0%;
     margin: 0;
 }
 
 .texto p{
     width: 586px;
     height: 108px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 24px;
     line-height: 100%;
-    letter-spacing: 0%;
     line-height: 35px;
 }
 
@@ -52,7 +50,6 @@ body{
     font-weight: 400;
     font-size: 24px;
     line-height: 18px;
-    letter-spacing: 0%;
 }
 
 .flex{
@@ -103,10 +100,9 @@ body{
 .cajas h2{
     width: 316px;
     height: 44px;
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 32px;
     line-height: 100%;
-    letter-spacing: 0%;
     color: white;
     margin: 0;
     margin-top: 16px;
@@ -115,10 +111,9 @@ body{
 .cajas p{
     width: 316px;
     height: 66px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 22px;
     line-height: 100%;
-    letter-spacing: 0%;
     color: white;
     margin: 0;
     margin-top: 24px;

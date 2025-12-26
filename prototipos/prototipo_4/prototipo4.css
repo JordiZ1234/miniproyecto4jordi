@@ -38,12 +38,12 @@ body{
 }
 
 .titulo {
-font-weight: 800px;
+font-weight: 800;
 font-size: 64px;
 }
 
 .texto{
-font-weight: 400px;
+font-weight: 400;
 font-size: 26px;
 }
 
@@ -60,7 +60,7 @@ color: white;
 }
 
 .span{
-font-weight: 800px;
+font-weight: 800;
 font-size: 32px;
 color: #2525258C;
 }
@@ -79,7 +79,7 @@ height: 147px;
 .texto_arriba p{
 width: 500px;
 height: 99px;
-font-weight: 400px;
+font-weight: 400;
 font-size: 24px;
 }
 .margintop{

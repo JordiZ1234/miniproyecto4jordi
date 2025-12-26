@@ -20,10 +20,9 @@ body{
 }
 
 .titulo h1{
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 70px;
     line-height: 88px;
-    letter-spacing: 0%;
 }
 
 .cartas{
@@ -36,7 +35,7 @@ body{
 
 .span{
     color: #25252559;
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 40px;
 
 }
@@ -46,10 +45,9 @@ body{
 }
 
 .parrafo{
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 24px;
     line-height: 100%;
-    letter-spacing: 0%;
     color: #252525CC;
 }
 

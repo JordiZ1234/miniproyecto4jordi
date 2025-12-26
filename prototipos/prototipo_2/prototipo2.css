@@ -51,7 +51,7 @@ body{
 }
 
 .titulo h1{
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 56px;
 
 }
@@ -59,7 +59,7 @@ body{
 .texto p{
     width: 386px;
     height: 144px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 26px;
     margin: 0;
 }
@@ -100,7 +100,7 @@ body{
 
 .numero{
     font-family: "Noto Sans", sans-serif;
-    font-weight: 800px;
+    font-weight: 800;
     font-size: 40px;
     color: #2525253d ;
 }

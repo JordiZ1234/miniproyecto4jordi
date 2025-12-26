@@ -19,10 +19,9 @@ body{
 .texto h1{
     width: 500px;
     height: 264px;
-    font-weight: 800px;
+    font-weight: 600;
     font-size: 72px;
     line-height: 88px;
-    letter-spacing: 0%;
     color: #252525;
     margin: 0;
 }
@@ -30,10 +29,9 @@ body{
 .texto p{
     width: 519px;
     height: 99px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 24px;
     line-height: 31px;
-    letter-spacing: 0%;
     color: #252525;
     margin: 0;
     margin-top: 24px;
@@ -47,10 +45,9 @@ body{
     border-radius: 36px;
     background-color: #252525;
     font-family: "Poppins";
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 24px;
     line-height: 18px;
-    letter-spacing: 0%;
     color: white;
     margin: 0;
     margin-top: 24px;
@@ -118,11 +115,9 @@ body{
 .absoluto8 p{
     width: 516px;
     height: 90px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 22px;
     line-height: 28px;
-    letter-spacing: 0%;
-
 }
 
 .absoluto8 img{
