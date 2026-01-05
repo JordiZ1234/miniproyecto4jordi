@@ -1,0 +1,150 @@
+body{
+    background-color: #252525;
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.contenedor{
+    background-color: white;
+    width: 1440px;
+    height: 1024px;
+}
+
+.lista{
+    position: absolute;
+    width: 650px;
+    height: 168px;
+    background-color: #49342F;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    top: 792px;
+    left: 64px;
+}
+.img{
+    margin-top: 16px;
+}
+.frame{
+    width: 110px;
+    height: 120px;
+
+}
+
+.frame span{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: white;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+.frame p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: white;
+    margin: 0;
+    margin-top: 16px;
+    line-height: 26px;
+}
+
+.content{
+    position: absolute;
+    width: 568px;
+    height: 418px;
+    top: 298px;
+    left: 64px;
+}
+
+.content h1{
+    color: #2C1001;
+    width: 568px;
+    height: 168px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 84px;
+    margin: 0;
+}
+
+.content p{
+    color: #2C1001;
+    width: 568px;
+    height: 108px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 100%;
+    margin: 0;
+    line-height: 35px;
+    margin-top: 32px;
+}
+
+.content button{
+    color: #2C1001;
+    border-radius: 36px;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    background-color: #FFDE81;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 32px;
+    font-family: "Poppins";
+}
+
+.relativo{
+    position: relative;
+}
+
+.star1{
+    position: absolute;
+    left: 635px;
+    top: 80px;
+}
+
+.star2{
+    position: absolute;
+    left: 1212px;
+    top: 762px;
+}
+
+.movil{
+    position: absolute;
+    left: 673px;
+    top: 420px;
+}
+
+.portal{
+    position: absolute;
+    top: 180px;
+    left: 1043px;
+}
+
+.heart{
+    position: absolute;
+    top: 372px;
+    left: 835px;
+}
+
+.yellow{
+    position: absolute;
+    left: 717px;
+    top: 172px;
+}
+
+.portal2{
+    position: absolute;
+    left: 1210px;
+    top: 350px;
+}
+
+.brown{
+    position: absolute;
+    left: 732px;
+    top: 183px;
+}
