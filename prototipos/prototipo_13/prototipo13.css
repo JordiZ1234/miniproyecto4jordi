@@ -1,0 +1,165 @@
+body{
+    background-color: #252525;
+    justify-content: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    width: 1440px;
+    height: 1024px;
+    background-color: white;
+}
+
+.relativo{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+}
+
+.texto_izquierda{
+    width: 434px;
+    height: 104px;
+    position: absolute;
+    top: 99px;
+    left: 64px;
+}
+
+.texto_izquierda span{
+    width: 434px;
+    height: 32px;
+    color: #25252573;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.texto_izquierda p{
+    width: 434px;
+    height: 64px;
+    color: #252525CC;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.texto_medio{
+    width: 637px;
+    position: absolute;
+    height: 324px;
+    left: 401px;
+    top: 231px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.texto_medio h1{
+    color: #252525;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-size: 112px;
+    line-height: 108px;
+    margin: 0;
+    text-align: center;
+}
+
+
+
+.texto_medio p{
+    width: 306px;
+    height: 128px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #252525CC;
+    font-family: "Times";
+    margin: 0;
+}
+
+.texto_medio button{
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    background-color: #252525;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 18px;
+    color: white;
+}
+
+.texto_derecha{
+    width: 434px;
+    height: 104px;
+    position: absolute;
+    top: 812px;
+    left: 942px;
+}
+
+.texto_derecha span{
+    width: 434px;
+    height: 32px;
+    color: #25252573;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.texto_derecha p{
+    width: 434px;
+    height: 64px;
+    color: #252525CC;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.desenfoque{
+    position: absolute;
+    left: 350px;
+}
+
+.explosion{
+    position: absolute;
+    top: 220px;
+    left: 83px;
+}
+
+.derecha{
+    position: absolute;
+    left: 64px;
+    top: 432px;
+}
+
+.star{
+    position: absolute;
+    left: 311px;
+    top: 237px;
+}
+
+.star2{
+    position: absolute;
+    top: 535px;
+    left: 921px;
+}
+
+.izquierda{
+    position: absolute;
+    top: 64px;
+    left: 964px;
+}
+
+.party{
+    top: 647px;
+    left: 1135px;
+    position: absolute;
+}
