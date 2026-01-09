@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    justify-content: center;
+}
