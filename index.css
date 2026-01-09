@@ -1,9 +1,15 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .flex{
     display: flex;
 }
 
 img{
-    width: 200px;
+    width: 245px;
     height: auto;
 }
 
@@ -14,4 +20,243 @@ h2{
 
 div{
     justify-content: center;
+    gap: 55px;
+}
+
+
+header{
+    background-color: #252525;
+    padding: 16px;
+}
+
+footer{
+    background-color: #252525;
+    margin-top: 20px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+footer span{
+    font-size: 19px;
+}
+
+span{
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+.relleno{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    background-color: white;
+    width: 280px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.relleno a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.relleno p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 40px;
+    font-weight: 700;
+}
+
+.relleno img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.relleno2{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    background-color: white;
+    width: 280px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.relleno2 a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.relleno2 p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.relleno2 img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.relleno3{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    background-color: white;
+    width: 280px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.relleno3 a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.relleno3 p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.relleno3 img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.relleno2 p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.relleno2 img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.relleno4{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    background-color: white;
+    width: 280px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.relleno4 a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.relleno4 p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 65px;
+    font-weight: 700;
+}
+
+.relleno4 img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.relleno5{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    background-color: white;
+    width: 280px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.relleno5 a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+
+}
+
+.relleno5 p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 55px;
+    font-weight: 700;
+}
+
+.relleno5 img{
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.relleno {
+    transition: transform 0.4s ease;
+}
+
+.relleno:hover {
+  transform: scale(1.1);
+}
+
+.relleno2 {
+    transition: transform 0.4s ease;
+}
+
+.relleno2:hover {
+  transform: scale(1.1);
+}
+
+.relleno3 {
+    transition: transform 0.4s ease;
+}
+
+.relleno3:hover {
+  transform: scale(1.1);
+}
+
+.relleno4 {
+    transition: transform 0.4s ease;
+}
+
+.relleno4:hover {
+  transform: scale(1.1);
+}
+
+.relleno5 {
+    transition: transform 0.4s ease;
+}
+
+.relleno5:hover {
+  transform: scale(1.1);
 }
